@@ -61,3 +61,5 @@ For more information about the NLTK, refer to the [official documentation](https
 8. **Machine Learning:** Using algorithms to train the chatbot to recognize patterns in the text and generate appropriate responses.
 9. **Natural Language Generation:** Generating responses that sound natural and conversational, rather than robotic or scripted.
 10. **Chatbot Integration:** Building the chatbot into a messaging platform or other application, so that users can interact with it in real time.
+
+I can recommend this blog post with more detailed explanations. I have experienced every step in this article. https://realpython.com/nltk-nlp-python/#getting-text-to-analyze
