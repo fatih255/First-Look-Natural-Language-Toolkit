@@ -46,7 +46,10 @@ Chinking is used in conjunction with chunking, but while chunking is used to inc
 For more information about the NLTK, refer to the [official documentation](https://www.nltk.org/).
 
 
-NLTK process for an AI chatbot
+
+## Info: NLTK process for an AI chatbot
+
+<img width="1224" alt="Screenshot 2023-04-24 at 00 28 40" src="https://user-images.githubusercontent.com/52957100/233867197-ebd4e6c6-e92e-4c0f-b0d2-f079ff70d908.png">
 
 1. **Corpus Collection:** Gathering a large dataset of text to train the chatbot, which could include books, articles, social media posts, and other sources.
 2. **Tokenization:** Breaking down the text into individual words or phrases, known as tokens, which can then be processed further.
